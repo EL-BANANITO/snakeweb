@@ -51,7 +51,7 @@ let food = {
 
 // create the score var
 
-var score = "";
+var score = "100";
 
 //control the snake
 
